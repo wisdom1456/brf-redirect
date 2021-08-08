@@ -1,0 +1,24 @@
+# Practice Area Redirects
+
+/criminal-defense-attorney-palm-harbor https://brflorida.com/practice-areas/criminal-defense/	301
+/debt-defense-attorney https://brflorida.com/practice-areas/debt-defense/	301
+/personal-injury-attorney https://brflorida.com/practice-areas/personal-injury/	301
+/real-estate-general-civil-litigation https://brflorida.com/practice-areas/real-estate/	301
+
+# Locations Redirects
+
+/criminal-defense-attorney-in-palm-harbor https://brflorida.com/locations/palm-harbor/	301
+/criminal-defense-attorney-clearwater https://brflorida.com/locations/clearwater/	301
+/tampa-criminal-defense-attorney https://brflorida.com/locations/tampa/	301
+
+# About Us Redirects
+
+/about-us-bernhardt-law-palm-harbor https://brflorida.com/about/	301
+
+# Contact Us Redirects
+
+/contact-us https://brflorida.com/contact/	301
+
+# Main Site redirect
+
+/ https://brflorida.com
